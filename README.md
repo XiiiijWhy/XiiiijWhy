@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - [Codeforces](https://codeforces.com/profile/Beginner_df016), [知乎](https://www.zhihu.com/people/da-fei-le), [OI博客](https://blog.csdn.net/qq_39774369)
-- Feel free to [Email](xiiiijwhy@qq.com) Me!
+- Feel free to [Email](mailto:xiiiijwhy@qq.com) Me!
 - I'm an algorithm contest player ICPC-regional🥈, HBCPC🏅️. 
 
 <!--
