@@ -2,7 +2,7 @@
 
 - ⚡ [Codeforces](https://codeforces.com/profile/Beginner_df016), [知乎](https://www.zhihu.com/people/da-fei-le), [OI博客](https://blog.csdn.net/qq_39774369)
 - 📫 Feel free to [Email](mailto:JiayingChen_df016@outlook.com) Me!
-- ✨ I'm an algorithm contest player ICPC-regional🥈,CCPC-regional🥈, CCPC-girls🥇, CCPC-HBCPC🥇. 
+- ✨ I'm an algorithm contest player ICPC-regional🥈,CCPC-regional🥈, CCPC-girls🥇. 
 - 🌱 I am currently an undergraduate student at Wuhan University, focusing on Computational Communication and Blockchain.
 <!--
 **XiiiijWhy/XiiiijWhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
