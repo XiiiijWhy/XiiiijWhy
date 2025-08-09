@@ -4,7 +4,7 @@
 - 📫 Feel free to [Email](mailto:JiayingChen_df016@outlook.com) Me!
 - ✨ I'm an algorithm contest player ICPC-regional🥈,CCPC-regional🥈, CCPC-girls🥇. 
 - 🎓 I earned my bachelor's degree in Communication from Wuhan University, specializing in Computational Communication.
-- 🚗 I'm currently working at Xiaomi Auto, primarily responsible for smart cockpit products, and maintain a strong curiosity about ADAS algorithms and Blockchain.
+- 🚗 I'm currently working at Xiaomi EV, primarily responsible for smart cockpit products, and maintain a strong curiosity about ADAS algorithms and Blockchain.
 <!--
 **XiiiijWhy/XiiiijWhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
